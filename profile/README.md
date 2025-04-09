@@ -34,4 +34,4 @@
 - **panda** [A parallel tooling driver based on compilation database]
 - **PyRefcon** [Python native code reference counting bug detection tool]
 - **SPrinter** [A Static Checker for Finding Smart Pointer Errors in C++ Programs]
-
+- **csa-eh** [A Static Checker for Finding Exception Handling Bugs in C++ Programs]
