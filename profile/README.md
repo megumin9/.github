@@ -29,6 +29,7 @@
 
 ### Java
 - **[JavaExP](https://github.com/SQUARE-RG/JavaExP)**: Java Exception-aware API Lifecycle Model analyzer
+- **[JStringChecker](https://github.com/SQUARE-RG/JStringChecker)**: Java method to SMT-LIB converter with its dataset (an artefact for SANER'25)
 
 ### C/C++: 
 - **[panda](https://github.com/SQUARE-RG/panda)**: A parallel tooling driver based on compilation database
